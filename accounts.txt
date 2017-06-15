@@ -1,0 +1,7 @@
+0,Admin,222,0
+1,McDonalds,111,1
+2,Wendys,111,1
+3,Harveys,111,1
+4,Starbucks,111,1
+5,Jared,111,3
+7,Tim Hortons,111,1
