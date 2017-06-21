@@ -14,7 +14,7 @@
 // Some maximum settings.
 //
 
-#define MAX_PRODUCTS        200
+#define MAX_PRODUCTS        400
 #define MAX_ACCOUNTS        50
 #define PRODUCT_NAME_SIZE   50
 #define ACCOUNT_NAME_SIZE   50
