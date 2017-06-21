@@ -107,7 +107,7 @@ main() {
     // Save our accounts.
     save_accounts();
 
-    printf("\n\nThank-you for shopping with us...\n");
+    printf("\n\nThank-you for shopping with us...please come again\n");
 }
 
 //
